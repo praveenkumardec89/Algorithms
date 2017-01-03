@@ -10,3 +10,4 @@ These are few of basic programs on Algorithms. Below are examples of problems I'
 
 4. You will get the list of cities a user is interested to visit, also a list of hotels within each city, each hotel has a price and a score which, and of course we would have the amount of euros that the user is ready to spend.You are required to find the highest total score of the hotels that the user can book within his budget.
 
+5. Machine Learning: Lot of Places/Games use computer bots to respond to the user action. For example I've coded for a game called as Battleship for One Player, where each time you difine the next position to be hit based on the hits you made.
